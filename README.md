@@ -1,13 +1,13 @@
 # lc
 Low-level Configuration Language
 
-LOGO ![alt](https://github.com/real-re/lc/logos/lc.svg)
+LOGO ![alt](logos/lc.svg)
 
 > Simple & Clear
 
 ## Example
 
-![alt](https://github.com/real-re/lc/images/code.png)
+![alt](images/code.png)
 
 ## In development
 
