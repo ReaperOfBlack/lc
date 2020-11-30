@@ -1,0 +1,25 @@
+# LC
+name = Dino
+hp = 3
+
+[Idle]
+frames = [
+	Dino_idle_01 # .png
+	Dino_idle_02
+	Dino_idle_03
+]
+
+[Run] # Run animation
+frames = [ Dino_run_01	Dino_run_02	Dino_run_03 ]
+
+[Attack]
+type = normalAttack
+range = 10..20
+frames = [
+	Dino_attack_01
+	Dino_attack_02
+	Dino_attack_03
+	Dino_attack_04
+	setEffect = dragon_fire
+	Dino_attack_05
+]
